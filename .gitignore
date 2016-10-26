@@ -1,0 +1,10 @@
+.idea/
+
+target/classes
+target/clientsapp-1.0-SNAPSHOT
+target/generated-sources
+target/maven-archiver
+target/maven-status
+target/surefire
+
+ProjectClients.iml
